@@ -14,6 +14,7 @@
       <Q03C01 >230905080</Q03C01>
     </Quadro03>
     <Quadro04>
+      <Q04B01 >3</Q04B01>
     </Quadro04>
     <Quadro05>
     </Quadro05>
@@ -32,11 +33,14 @@
       </Rostoq07BT01>
     </Quadro07>
     <Quadro08>
+      <Q08B01 >1</Q08B01>
     </Quadro08>
     <Quadro09>
       <Q09C01 >PT50001800031445458102094</Q09C01>
+      <Q09B01b >true</Q09B01b>
     </Quadro09>
     <Quadro10>
+      <Q10B01 >1</Q10B01>
     </Quadro10>
     <Quadro11>
     </Quadro11>
@@ -163,7 +167,7 @@
           <Freguesia >110656</Freguesia>
           <TipoPredio >U</TipoPredio>
           <Artigo >1993</Artigo>
-          <Fraccao >2ºD</Fraccao>
+          <Fraccao >2 D</Fraccao>
           <Titular >A</Titular>
           <ValorIliquidoRendas >1100.00</ValorIliquidoRendas>
           <NaturezaRendas >1</NaturezaRendas>
@@ -175,7 +179,7 @@
           <Freguesia >110656</Freguesia>
           <TipoPredio >U</TipoPredio>
           <Artigo >1993</Artigo>
-          <Fraccao >1ºD</Fraccao>
+          <Fraccao >1 D</Fraccao>
           <Titular >A</Titular>
           <ValorIliquidoRendas >1000.00</ValorIliquidoRendas>
           <NaturezaRendas >1</NaturezaRendas>
@@ -209,7 +213,7 @@
           <Freguesia >110656</Freguesia>
           <TipoPredio >U</TipoPredio>
           <Artigo >1993</Artigo>
-          <Fraccao >1ºE</Fraccao>
+          <Fraccao >1 E</Fraccao>
           <Titular >A</Titular>
           <ValorIliquidoRendas >1000.00</ValorIliquidoRendas>
           <NaturezaRendas >1</NaturezaRendas>
@@ -281,7 +285,7 @@
           <Freguesia >110656</Freguesia>
           <TipoPredio >U</TipoPredio>
           <Artigo >1993</Artigo>
-          <Fraccao >2ºE</Fraccao>
+          <Fraccao >2 E</Fraccao>
           <Titular >A</Titular>
           <ValorIliquidoRendas >1100.00</ValorIliquidoRendas>
           <NaturezaRendas >1</NaturezaRendas>
@@ -308,6 +312,7 @@
     <Quadro07>
       <AnexoFq07AT01 >
       </AnexoFq07AT01>
+      <AnexoFq07B06 >S</AnexoFq07B06>
     </Quadro07>
     <Quadro08>
       <AnexoFq08T01 >
