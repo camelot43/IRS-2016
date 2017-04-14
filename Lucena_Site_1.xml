@@ -124,7 +124,7 @@
           <NaturezaRendas >1</NaturezaRendas>
           <RetencoesFonte >0.00</RetencoesFonte>
           <NIFArrendatario >142482617</NIFArrendatario>
-        </AnexoFq04T01-Linha> 
+        </AnexoFq04T01-Linha>
         <AnexoFq04T01-Linha numero="2">
           <NLinha >4002</NLinha>
           <Freguesia >110602</Freguesia>
@@ -136,7 +136,7 @@
           <NaturezaRendas >1</NaturezaRendas>
           <RetencoesFonte >0.00</RetencoesFonte>
           <NIFArrendatario >151487685</NIFArrendatario>
-        </AnexoFq04T01-Linha>                    
+        </AnexoFq04T01-Linha>
         <AnexoFq04T01-Linha numero="3">
           <NLinha >4003</NLinha>
           <Freguesia >110602</Freguesia>
@@ -148,7 +148,7 @@
           <NaturezaRendas >1</NaturezaRendas>
           <RetencoesFonte >0.00</RetencoesFonte>
           <NIFArrendatario >149495714</NIFArrendatario>
-        </AnexoFq04T01-Linha>          
+        </AnexoFq04T01-Linha>
         <AnexoFq04T01-Linha numero="4">
           <NLinha >4004</NLinha>
           <Freguesia >110602</Freguesia>
@@ -160,7 +160,7 @@
           <NaturezaRendas >1</NaturezaRendas>
           <RetencoesFonte >0.00</RetencoesFonte>
           <NIFArrendatario >130021075</NIFArrendatario>
-        </AnexoFq04T01-Linha>          
+        </AnexoFq04T01-Linha>
         <AnexoFq04T01-Linha numero="5">
           <NLinha >4005</NLinha>
           <Freguesia >110602</Freguesia>
@@ -184,7 +184,7 @@
           <NaturezaRendas >1</NaturezaRendas>
           <RetencoesFonte >0.00</RetencoesFonte>
           <NIFArrendatario >226251683</NIFArrendatario>
-        </AnexoFq04T01-Linha> 
+        </AnexoFq04T01-Linha>
         <AnexoFq04T01-Linha numero="7">
           <NLinha >4007</NLinha>
           <Freguesia >110656</Freguesia>
@@ -196,7 +196,7 @@
           <NaturezaRendas >1</NaturezaRendas>
           <RetencoesFonte >0.00</RetencoesFonte>
           <NIFArrendatario >100226264</NIFArrendatario>
-        </AnexoFq04T01-Linha>                 
+        </AnexoFq04T01-Linha>
         <AnexoFq04T01-Linha numero="8">
           <NLinha >4008</NLinha>
           <Freguesia >110656</Freguesia>
@@ -256,7 +256,7 @@
           <NaturezaRendas >1</NaturezaRendas>
           <RetencoesFonte >0.00</RetencoesFonte>
           <NIFArrendatario >191788520</NIFArrendatario>
-        </AnexoFq04T01-Linha>        
+        </AnexoFq04T01-Linha>
         <AnexoFq04T01-Linha numero="13">
           <NLinha >4013</NLinha>
           <Freguesia >110667</Freguesia>
@@ -289,7 +289,7 @@
           <NaturezaRendas >1</NaturezaRendas>
           <RetencoesFonte >0.00</RetencoesFonte>
           <NIFArrendatario >288922948</NIFArrendatario>
-        </AnexoFq04T01-Linha>           
+        </AnexoFq04T01-Linha>
         <AnexoFq04T01-Linha numero="16">
           <NLinha >4016</NLinha>
           <Freguesia >110667</Freguesia>
@@ -318,7 +318,101 @@
     </Quadro04>
     <Quadro05>
       <AnexoFq05AT01 >
+        <AnexoFq05AT01-Linha numero="1">
+          <NLinhaQ4 >4001</NLinhaQ4>
+          <ConservacaoManutencao >8305.25</ConservacaoManutencao>
+          <IMI >193.27</IMI>
+          <TaxasAutarquicas >24.16</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="2">
+          <NLinhaQ4 >4002</NLinhaQ4>
+          <ConservacaoManutencao >192.67</ConservacaoManutencao>
+          <IMI >193.27</IMI>
+          <TaxasAutarquicas >24.16</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="3">
+          <NLinhaQ4 >4003</NLinhaQ4>
+          <ConservacaoManutencao >192.67</ConservacaoManutencao>
+          <IMI >193.27</IMI>
+          <TaxasAutarquicas >24.16</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="4">
+          <NLinhaQ4 >4004</NLinhaQ4>
+          <ConservacaoManutencao >1019.18</ConservacaoManutencao>
+          <IMI >193.27</IMI>
+          <TaxasAutarquicas >24.16</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="5">
+          <NLinhaQ4 >4005</NLinhaQ4>
+          <ConservacaoManutencao >164.00</ConservacaoManutencao>
+          <IMI >216.42</IMI>
+          <TaxasAutarquicas >27.05</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="6">
+          <NLinhaQ4 >4006</NLinhaQ4>
+          <ConservacaoManutencao >49.05</ConservacaoManutencao>
+          <IMI >216.42</IMI>
+          <TaxasAutarquicas >27.05</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="7">
+          <NLinhaQ4 >4007</NLinhaQ4>
+          <IMI >108.80</IMI>
+          <TaxasAutarquicas >13.60</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="8">
+          <NLinhaQ4 >4008</NLinhaQ4>
+          <IMI >108.80</IMI>
+          <TaxasAutarquicas >13.60</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="9">
+          <NLinhaQ4 >4009</NLinhaQ4>
+          <IMI >108.80</IMI>
+          <TaxasAutarquicas >13.60</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="10">
+          <NLinhaQ4 >4010</NLinhaQ4>
+          <IMI >108.80</IMI>
+          <TaxasAutarquicas >13.60</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="11">
+          <NLinhaQ4 >4011</NLinhaQ4>
+          <ConservacaoManutencao >28.17</ConservacaoManutencao>
+          <IMI >108.80</IMI>
+          <TaxasAutarquicas >13.60</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="12">
+          <NLinhaQ4 >4012</NLinhaQ4>
+          <ConservacaoManutencao >4553.25</ConservacaoManutencao>
+          <IMI >108.80</IMI>
+          <TaxasAutarquicas >13.60</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="13">
+          <NLinhaQ4 >4015</NLinhaQ4>
+          <ConservacaoManutencao >333.50</ConservacaoManutencao>
+          <IMI >37.65</IMI>
+          <ImpostoSelo >25.00</ImpostoSelo>
+          <TaxasAutarquicas >4.70</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="14">
+          <NLinhaQ4 >4016</NLinhaQ4>
+          <ConservacaoManutencao >1445.44</ConservacaoManutencao>
+          <IMI >48.60</IMI>
+          <ImpostoSelo >22.50</ImpostoSelo>
+          <TaxasAutarquicas >6.08</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
+        <AnexoFq05AT01-Linha numero="15">
+          <NLinhaQ4 >4017</NLinhaQ4>
+          <ConservacaoManutencao >23.22</ConservacaoManutencao>
+          <IMI >48.60</IMI>
+          <TaxasAutarquicas >6.08</TaxasAutarquicas>
+        </AnexoFq05AT01-Linha>
       </AnexoFq05AT01>
+      <AnexoFq05AT01SomaC01 >16306.40</AnexoFq05AT01SomaC01>
+      <AnexoFq05AT01SomaC02 >0.00</AnexoFq05AT01SomaC02>
+      <AnexoFq05AT01SomaC03 >1993.57</AnexoFq05AT01SomaC03>
+      <AnexoFq05AT01SomaC04 >47.50</AnexoFq05AT01SomaC04>
+      <AnexoFq05AT01SomaC05 >249.20</AnexoFq05AT01SomaC05>
+      <AnexoFq05AT01SomaC06 >0.00</AnexoFq05AT01SomaC06>
       <AnexoFq05BT01 >
       </AnexoFq05BT01>
     </Quadro05>
