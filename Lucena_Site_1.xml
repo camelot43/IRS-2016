@@ -441,4 +441,54 @@
       </AnexoFq09T01>
     </Quadro09>
   </AnexoF>
+  <AnexoH>
+    <Quadro02>
+      <AnexoHq02C01 >2016</AnexoHq02C01>
+    </Quadro02>
+    <Quadro03>
+      <AnexoHq03C01 >142254630</AnexoHq03C01>
+    </Quadro03>
+    <Quadro04>
+      <AnexoHq04T01 >
+      </AnexoHq04T01>
+    </Quadro04>
+    <Quadro05>
+      <AnexoHq05T01 >
+      </AnexoHq05T01>
+    </Quadro05>
+    <Quadro06>
+      <AnexoHq06AT01 >
+      </AnexoHq06AT01>
+      <AnexoHq06BT01 >
+        <AnexoHq06BT01-Linha numero="1">
+          <CodBeneficio >608</CodBeneficio>
+          <Titular >A</Titular>
+          <ImportanciaAplicada >6.00</ImportanciaAplicada>
+          <NifPortugues >500139989</NifPortugues>
+        </AnexoHq06BT01-Linha>
+        <AnexoHq06BT01-Linha numero="2">
+          <CodBeneficio >613</CodBeneficio>
+          <Titular >A</Titular>
+          <ImportanciaAplicada >15.00</ImportanciaAplicada>
+          <NifPortugues >503349410</NifPortugues>
+        </AnexoHq06BT01-Linha>
+        <AnexoHq06BT01-Linha numero="3">
+          <CodBeneficio >613</CodBeneficio>
+          <Titular >A</Titular>
+          <ImportanciaAplicada >5.00</ImportanciaAplicada>
+          <NifPortugues >506416615</NifPortugues>
+        </AnexoHq06BT01-Linha>
+      </AnexoHq06BT01>
+      <AnexoHq06BT01SomaC01 >26.00</AnexoHq06BT01SomaC01>
+      <AnexoHq06B01 >N</AnexoHq06B01>
+      <AnexoHq06CT01 >
+      </AnexoHq06CT01>
+    </Quadro06>
+    <Quadro07>
+      <AnexoHq07T01 >
+      </AnexoHq07T01>
+    </Quadro07>
+    <Quadro08>
+    </Quadro08>
+  </AnexoH>
 </Modelo3IRSv2017>
